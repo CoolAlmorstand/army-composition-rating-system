@@ -18,6 +18,6 @@ export const chargeResistanceModifier = {
 }
 
 
-//export const terrains = ["forest", "land", "village", "river"]
-export const terrains = ["forest"]
+export const terrains = ["forest", "land", "village", "river"]
+//export const terrains = ["forest"]
 

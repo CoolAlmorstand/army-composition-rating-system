@@ -253,9 +253,9 @@ const twelvePoundFootArtillery = {
 }
 
 export const units = {
-    //lineInfantry, 
+    lineInfantry, 
     lightInfantry, 
     gaurdInfantry
-    //dragoon, 
-    //twelvePoundFootArtillery
+    dragoon, 
+    twelvePoundFootArtillery
 }
